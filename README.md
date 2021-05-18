@@ -17,13 +17,11 @@
 </details>
 
 ### IDE
-<details>
-  <summary></summary>
-  
-  > - IDE stands for Integrated Development Environment.
-  > - Use open source Eclipse IDE for development.
-  > - Download and install Eclipse package not installer.
-</details>
+- Eclipse
+- STS
+
+### Java Docs Home Page
+- [Click Here](https://docs.oracle.com/javase/8/)
 
 ### API Reference
 - [Click Here](https://docs.oracle.com/javase/8/docs/api/index.html)
