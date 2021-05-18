@@ -24,3 +24,9 @@
   > - Use open source Eclipse IDE for development.
   > - Download and install Eclipse package not installer.
 </details>
+
+### API Reference
+- [Click Here](https://docs.oracle.com/javase/8/docs/api/index.html)
+
+### Learning Path
+- [tutorial Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
